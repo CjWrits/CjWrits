@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CjWrits
-- 👀 I’m interested in Developing Bots
-- 🌱 I’m currently learning to Code
+- 👋 Hi, I’m @Cj :)
+- 👀 I’m interested in Cats :)
+- 🌱 I’m currently learning basics.
 - 📫 How to reach me cjwrits@gmail.com
 
 
