@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Cj :)
-- 👀 I’m interested in Cats :)
 - 🌱 I’m currently learning basics.
 - 📫 How to reach me cjwrits@gmail.com
 
